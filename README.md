@@ -63,10 +63,10 @@ The dataset contains global COVID-19 vaccination records sourced from publicly a
 
 ## Dashboard Highlights
 
-- 📈 Global vaccination trend over time with daily and cumulative views
-- 🗺️ Country-wise vaccination map for geographic comparison
-- 🏆 Top 10 countries ranked by vaccination coverage
-- 🔍 Interactive slicers to filter by country and time period
+- Global vaccination trend over time with daily and cumulative views
+- Country-wise vaccination map for geographic comparison
+- Top 10 countries ranked by vaccination coverage
+- Interactive slicers to filter by country and time period
 
 ---
 
@@ -100,11 +100,11 @@ The dataset contains global COVID-19 vaccination records sourced from publicly a
 ```
 covid-vaccination-analysis/
 │
-├── Project1-COVID-19_Vaccinations_Trend_Analysis.pbix   # Power BI file
-└── README.md
+├── Project 1 power bi(Sheet1).csv                          # Raw dataset
+├── Project1-COVID-19 Vaccinations Trend Analysis.pbix      # Power BI file
+├── README.md
+├── project1-COVID-19 Vaccinations Trend Analysis.docx      # Project documentation
+└── project1-COVID-19 Vaccinations.pptx                     # Presentation file
 ```
 
 ---
-
-**Your Name**
-[LinkedIn](https://linkedin.com/in/your-profile) | [GitHub](https://github.com/your-username)
